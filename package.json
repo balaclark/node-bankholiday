@@ -1,6 +1,6 @@
 {
     "name": "bankholiday",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Library to get the bank holiday by country.",
     "engines": {
         "node": ">=0.8.0"
