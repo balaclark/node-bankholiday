@@ -43,4 +43,4 @@ Install with [npm](http://github.com/isaacs/npm):
 [npm-image]: http://img.shields.io/npm/v/bankholiday.svg
 
 [travis-url]: https://travis-ci.org/julb/node-bankholiday
-[travis-image]: http://img.shields.io/travis/julb/node-bankholiday.svg
+[travis-image]: https://travis-ci.org/julb/node-bankholiday.svg
