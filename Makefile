@@ -9,6 +9,6 @@ run-tests:
 
 run-tests-report:
 	@mkdir -p build/reports
-	@mocha test/*-test.js --reporter xunit > build/reports/xunit.xml || true
+	@./node_modules/mocha/bin/mocha test/*-test.js --reporter xunit > build/reports/xunit.xml || true
 
 jenkins: install clean-reports run-tests run-tests-report
