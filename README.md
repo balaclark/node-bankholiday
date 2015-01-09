@@ -6,7 +6,7 @@ This module lets you list all bank holidays, for a particular year and a particu
 ## Features:
 
 * Very simple API
-* Support the following countries: FR [TBC]
+* Support the following countries: FR,GB
 
 ## Install
 
